@@ -15,7 +15,7 @@
 ## Project Progression
 
 ### Week 1: Design Patterns, DSA, TDD (COMPLETE)
-**Date**: 25-June-2026 | **Tests**: 25/25 ✅
+**Date**: 25-June-2026 | **Tests**: 25/25 
 
 **Topics Covered**:
 - JUnit 4 Testing Framework
@@ -31,7 +31,7 @@
 ---
 
 ### Week 2: Spring Core, JPA, Hibernate (COMPLETE)
-**Date**: 27-June-2026 | **Tests**: 27/27 ✅
+**Date**: 27-June-2026 | **Tests**: 27/27 
 
 **Topics Covered**:
 - Spring Framework 6.1.0
